@@ -1,5 +1,7 @@
 # Reliable-Transport-Alternating-Bit Protocol
 
+*University Project*
+
 This repository contains an implementation of the Alternating Bit Protocol (ABP) for simulating reliable data transfer over a network. The code is adapted from the network emulator and Go-Back-N implementation by J.F. Kurose, customized specifically to demonstrate the functionality of the Alternating Bit Protocol.
 
 Features
