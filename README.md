@@ -11,12 +11,8 @@ Network Emulation: Utilizes a basic network emulator to mimic real-world network
 Usage
 Compilation: Compile the code using a C compiler (e.g., gcc).
 
-bash
-Copy code
 gcc -o abp ABP.c
 Execution: Run the executable with desired parameters.
 
-bash
-Copy code
 ./abp <emulator_host_address> <emulator_port> <sender_port> <receiver_port>
 Notes: Ensure the emulator is running before executing the sender and receiver.
